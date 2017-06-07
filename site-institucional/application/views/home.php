@@ -19,5 +19,33 @@
 	</head>
 
 	<body>
+		<div class="site-wrapper">
+			<div class="site-wrapper-inner">
+				<div class="cover-container">
+					<div class="masthead clearfix">
+						<div class="inner">
+							<h1 class="masthead-brand">LCI</h1>
+							<nav>
+								<ul class="nav masthead-nav">
+									<li class="active"><a href="#">Home</a></li>
+									<li><a href="#">A Empresa</a></li>
+									<li><a href="#">Serviços</a></li>
+									<li><a href="#">Trabalhe Conosco</a></li>
+									<li><a href="#">Fale Conosco</a></li>
+								</ul>
+							</nav>
+						</div>
+					</div>
+					<div class="inner cover">
+						<h1 class="cover-heading">Ensinando através da prática</h1>
+						<p class="lead">Até aqui você aprendeu como criar um <i>controller</i>, uma <i>view</i>
+						e a usar a função <i>base_url</i> do helper <i>url</i> utilizando o livo
+						"CodeIgniter: Produtividade na criação de aplicações web e PHP".</p>
+					</div>
+				</div>
+			</div>
+		</div>
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 	</body>
 </html>
